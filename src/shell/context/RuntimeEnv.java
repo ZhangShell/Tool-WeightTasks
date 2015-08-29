@@ -2,6 +2,12 @@ package shell.context;
 
 import shell.task.AbstractTask;
 
+/***
+ * 运行时
+ * 
+ * @author Shell
+ *
+ */
 public class RuntimeEnv {
 
 	private static RuntimeEnv env = new RuntimeEnv();
